@@ -1,0 +1,9 @@
+{
+  "name": "ci-workflow-demo",
+  "version": "1.0.0",
+  "description": "Minimal Node.js project for CI workflow demonstration",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
